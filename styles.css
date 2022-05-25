@@ -1,7 +1,18 @@
 .flex-container-1{
     background-color: #1f2937;
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    display: flex;
 }
 a{
     text-decoration: none;
     float: inline-end;
+
 }
+.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+  }
+
